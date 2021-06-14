@@ -1,6 +1,6 @@
 html {
   color:#0002a7;
-  margin:20px ;
+  margin:30px ;
 }
 
 li {
@@ -15,7 +15,7 @@ h1,h2 {
 h1 {
   text-align:center;
   font-size:30px;
-  padding:25px;
+  padding:35px;
   margin:70px 19% 70px 19%;
   border:1px solid black;
   border-radius:30px;
