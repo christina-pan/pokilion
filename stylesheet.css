@@ -31,7 +31,7 @@ li a:hover {
 
 h1,h2 {
   font-style:italic;
-  font-family:Helvetica, sans-serif;
+  font-family:Garamond, serif;
 }
 
 h1 {
@@ -72,5 +72,5 @@ p a {
   margin-left:40px;
   font-weight:600;
   font-style:italic;
-  font-family:helvetica, sans-serif;
+  font-family:Garamond, serif;
 }
