@@ -5,10 +5,10 @@ html {
 
 nav ul {
   list-style-type: none;
-  padding: 50px 0px 50px 0px;
+  padding: 25px 0px 50px 0px;
   clear:both;
-  border-bottom:2px solid black;
-  margin-bottom:30px;
+  border-bottom:1px solid black;
+  margin-bottom:25px;
 }
 
 li a {
