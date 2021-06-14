@@ -1,6 +1,6 @@
 html {
   color:#0002a7;
-  margin:30px ;
+  margin:20px ;
 }
 
 li {
@@ -15,7 +15,7 @@ h1,h2 {
 h1 {
   text-align:center;
   font-size:30px;
-  padding:35px;
+  padding:25px;
   margin:70px 19% 70px 19%;
   border:1px solid black;
   border-radius:30px;
@@ -26,6 +26,13 @@ h2 {
 }
 
 
+#toc {
+  font-size:35px;
+  color:rgb(61, 153, 72);
+  font-variant:small-caps;
+  border-left:5px solid white;
+  background-color:rgba(255, 255, 255, 0.2);
+}
 
 li, p {
   font: 100 15px monospace;
