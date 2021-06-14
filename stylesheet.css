@@ -15,7 +15,7 @@ li a {
   text-align: center;
   text-decoration: none;
   float: left;
-  width:50%;
+  width:25%;
   color:#0002a7;
   font-size:18px;
 }
@@ -55,7 +55,7 @@ h2 {
 
 img {
   width:28%;
-  float:right;
+  float:center;
   margin:0 0 15px 15px;
 }
 
