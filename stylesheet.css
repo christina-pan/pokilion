@@ -16,7 +16,7 @@ li a {
   text-decoration: none;
   float: left;
   width:25%;
-  color:black;
+  color:white;
   font-size:18px;
 }
 
@@ -25,7 +25,7 @@ li a:hover {
 }
 
 #current {
-  color:rgb(0, 2, 167);
+  color:white;
 }
 
 h1,h2 {
